@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1652274405 source:c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+
+1652274414 c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\color.h
+
+1652270067 source:c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+
+1652270034 c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\fecha.h
+
+1652280692 source:c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascota.h"
+	"validacion.h"
+	"tipo.h"
+	"color.h"
+
+1652281131 c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\mascota.h
+	"tipo.h"
+	"color.h"
+
+1652280501 source:c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+
+1652281115 c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\servicio.h
+
+1652274675 source:c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1652274692 c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\tipo.h
+
+1652269963 source:c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validacion.h"
+
+1652269886 c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\validacion.h
+
+1652272104 source:c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+
+1652271945 c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\menu.h
+	"validacion.h"
+
+1652281233 source:c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validacion.h"
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"mascota.h"
+	"servicio.h"
+	"trabajo.h"
+	"menu.h"
+
+1652281084 c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\trabajo.h
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"mascota.h"
+	"validacion.h"
+	"fecha.h"
+
+1652281766 source:c:\users\leaos\onedrive\escritorio\programacion\osellaleandroparcial1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+
